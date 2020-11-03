@@ -26,7 +26,7 @@ final public class Contract {
      * If the assertion fails, throws unchecked {@link ContractViolationException}
      * with the message passed in.
      * <p>
-     * @param expression boolean expression defining the precondition
+     * @param expression boolean expression defining the precondition HALLO HALLO
      * @param message message text to be included in the exception message text
      */
     public static void require(boolean expression, String message) {
